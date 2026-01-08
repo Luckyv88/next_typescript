@@ -1,5 +1,5 @@
 import Navbar from "@/Component/Navbar";
-import Link from "next/link";
+import "./globals.css";
 import React from "react";
 
 export default function demoLayout({children}:{children:React.ReactNode})
